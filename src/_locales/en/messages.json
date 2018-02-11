@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Skip Videos",
+    "description": "Adskip Extension."
+  },
+  "appDescription": {
+    "message": "Boilerplate for building cross browser extensions",
+    "description": "An extension that helps skip ads when adblockers fall short."
+  },
+  "btnTooltip": {
+    "message": "Skip Videos",
+    "description": "Skip videos!"
+  }
+}
